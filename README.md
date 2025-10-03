@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer in Japan</h3>
 
 
-<img width="1000" height="707" alt="Design" src="https://github.com/user-attachments/assets/c1fe2945-dcaa-436a-ada6-c936466d82a2" />
+<img width="800" height="450" alt="Design" src="https://github.com/user-attachments/assets/c1fe2945-dcaa-436a-ada6-c936466d82a2" />
 
 
 
