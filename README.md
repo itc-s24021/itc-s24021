@@ -5,7 +5,8 @@
 
 
 <div class="wrapper">
-  <img src=alt=<img width="500" height="354" alt="Design" src="https://github.com/user-attachments/assets/c1fe2945-dcaa-436a-ada6-c936466d82a2" />
+  <img width="2000" height="1414" alt="Design" src="https://github.com/user-attachments/assets/6690cf90-55b8-4b7c-af18-4b04fe93af7f" />
+
 </div>
 
 
