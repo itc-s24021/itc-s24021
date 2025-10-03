@@ -1,4 +1,4 @@
-##Portfolio
+
 
 <h1 align="center">Hi 👋, I'm Jyuichi Neha</h1>
 <h3 align="center">A passionate developer in Japan</h3>
