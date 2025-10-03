@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        
-        <title>**タイトル**</title>
+        <meta charset="UTF-8">
+        <title>こんにちは</title>
         <link rel="Stylesheet" href="style.css">
     </head>
     <body>
@@ -11,6 +11,7 @@
         <footer></footer>
     </body>
 </html>
+
 
 <!--
 **itc-s24021/itc-s24021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
