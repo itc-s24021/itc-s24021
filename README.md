@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer in Japan</h3>
 
 
-![Uploading image.png…]()
+![Uploading Design.png…]()
 
 
 
