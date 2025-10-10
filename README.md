@@ -2,7 +2,7 @@
   
 # 👋 こんにちは、Jyuichi Nehaです
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=学生エンジニアです;Javaを勉強中です;新しい技術を学ぶのが好きです" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=はじめまして;ITカレッジ沖縄ITスペシャリスト科;27年卒予定です" alt="Typing SVG" />
 
 <img width="100%" src="https://github.com/user-attachments/assets/6690cf90-55b8-4b7c-af18-4b04fe93af7f" alt="Profile Banner"/>
 
