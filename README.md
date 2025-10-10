@@ -1,57 +1,63 @@
+<div align="center">
+  
+# 👋 こんにちは、Jyuichi Nehaです
 
+### 🇯🇵 Japan-based Passionate Developer
 
-<h1 align="center">Hi 👋, I'm Jyuichi Neha</h1>
-<h3 align="center">A passionate developer in Japan</h3>
-
-
-<div class="wrapper">
-  <img width="2000" height="1414" alt="Design" src="https://github.com/user-attachments/assets/6690cf90-55b8-4b7c-af18-4b04fe93af7f" />
+<img width="100%" src="https://github.com/user-attachments/assets/6690cf90-55b8-4b7c-af18-4b04fe93af7f" alt="Profile Banner"/>
 
 </div>
 
+---
 
+## 🚀 About Me
 
+情熱的な開発者として、日本を拠点に活動しています。テクノロジーとイノベーションの交差点で、意味のあるソリューションを創造することに注力しています。
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
-
-
-
-<br><br><br>
+## 💻 Tech Stack & GitHub Stats
 
 <div align="center">
-    <h2>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-    </h2>
-    <h3>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-    </h3>
-    <h4>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-    </h4>
-    <h5>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-    </h5>
-    <h6>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-    </h6>
-  </div>
-<br><br><br>
+  
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+### 📈 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 革新的なプロジェクトの構築
+- 🌱 最新技術のキャッチアップと実践
+- 👯 オープンソースプロジェクトへの貢献
+- 💬 技術コミュニティとの交流
+
+---
+
+<div align="center">
+
+## 🌟 Let's Connect
+
+**常に新しい挑戦と学びを求めています**
+
+<img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" width="20"/> ・・
+<img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="20"/> ・・
+<img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif" width="20"/> ・・・・
+<img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="20"/> ・
+
+### ⚡ Fun Fact
+コードを書くことは、アートを創造することだと信じています
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+*"Code is poetry written in logic"*
+
+</div>
