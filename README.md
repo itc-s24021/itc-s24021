@@ -16,21 +16,6 @@
 
 ## 💻 Tech Stack & GitHub Stats
 
-<div align="center">
-  
-### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-### 📈 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 革新的なプロジェクトの構築
