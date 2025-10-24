@@ -35,8 +35,6 @@
 <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="20"/> ・
 
 ### ⚡ Fun Fact
-
-https://github.com/itc-s24021/itc-s24021/edit/main/README.md
 コードを書くことは、アートを創造することだと信じています
 
 ---
