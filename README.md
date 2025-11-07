@@ -27,7 +27,7 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 <div align="center">
 
 ### 言語・フレームワーク
-![HTML5](img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -68,7 +68,7 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 
 <div align="center">
 
-常に新しい挑戦と学びを求めています 🚀
+一生懸命がんばります！
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itc-s24021)
 
@@ -76,9 +76,7 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 
 ---
 
-### 💭 Quote
-
-*"Code is poetry written in logic"*
+###
 
 <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" width="30"/> 
 <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="30"/> 
