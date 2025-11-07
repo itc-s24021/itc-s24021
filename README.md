@@ -35,8 +35,12 @@
 <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" width="20"/> ・
 
 ### ⚡ Fun Fact
+<a>
 [自己紹介HTML](https://github.com/itc-s24021/Webextension)
-[APIを使ったサイト](https://github.com/itc-s24021/Doraemon)
+</a>
+<a>
+  [APIを使ったサイト](https://github.com/itc-s24021/Doraemon)
+</a>
 []()
 []()
 
