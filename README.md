@@ -8,15 +8,14 @@
 
 </div>
 
-<div align="center">
-👋 こんにちは、Jyuichi Nehaです
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITカレッジ沖縄+ITスペシャリスト科;2027年卒業予定;Web開発を学んでいます" alt="Typing SVG" />
-<img width="100%" src="https://github.com/user-attachments/assets/6690cf90-55b8-4b7c-af18-4b04fe93af7f" alt="Profile Banner"/>
-</div>
+## 🚀 About Me
+ITカレッジ沖縄でITスペシャリスト科に在籍中の学生です。
+Web開発を中心に、日々新しい技術を学び、実践しています。
 
----
-
-## 🚀 
+🎓 所属: ITカレッジ沖縄 ITスペシャリスト科
+📅 卒業予定: 2027年3月
+💻 興味分野: Web開発、API連携、UI/UXデザイン
+🌱 現在学習中: HTML/CSS、JavaScript、API活用
 
 
 ## 🎯 
