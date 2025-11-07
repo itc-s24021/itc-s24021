@@ -36,6 +36,10 @@
 
 ### ⚡ Fun Fact
 [自己紹介HTML](https://github.com/itc-s24021/Webextension)
+[APIを使ったサイト](https://github.com/itc-s24021/Doraemon)
+[]()
+[]()
+
 
 ---
 
