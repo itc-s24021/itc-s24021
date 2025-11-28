@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 こんにちは、Jyuichi Nehaです
+#  こんにちは、禰覇 十一 です
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=ITカレッジ沖縄+ITスペシャリスト科;2027年卒業予定;Web開発を学んでいます" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ITカレッジ沖縄でITスペシャリスト科に在籍中の学生です。  
 Web開発を中心に、日々新しい技術を学び、実践しています。
@@ -22,7 +22,7 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 
 ---
 
-## 🎯 Skills & Technologies
+##  Skills & Technologies
 
 <div align="center">
 
@@ -40,20 +40,26 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 
 ---
 
-## ⚡ Projects
+##  Projects
 
 <div align="center">
 
 | プロジェクト | 説明 | リンク |
 |------------|------|--------|
-| 🎨 **自己紹介HTML** | HTMLとCSSで作成した自己紹介サイト | [View →](https://github.com/itc-s24021/Webextension) |
-| 🤖 **APIサイト** | ドラえもんAPIを活用したWebアプリケーション | [View →](https://github.com/itc-s24021/Doraemon) |
+| **自己紹介HTML** | HTMLとCSSで作成した自己紹介サイト | [View →](https://github.com/itc-s24021/Webextension) |
+| **APIサイト** | ドラえもんAPIを活用したWebアプリケーション | [View →](https://github.com/itc-s24021/Doraemon) |
 
 </div>
 
+##  保有資格
+<div align="center">
+  インターネット検定 ドットコムマスター ベーシック
+  サーティファイ 実践プログラミング技術者試験 Python部門 Entry (Level 1)
+  サーティファイ コミュニケーション検定 初級
+</div>
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -64,7 +70,7 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
 
 ---
 
-## 🌟 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
