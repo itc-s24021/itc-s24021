@@ -49,17 +49,14 @@ Web開発を中心に、日々新しい技術を学び、実践しています�
           <img src="https://img.shields.io/badge/Webextension-45B7D1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Webextension">
         </a>
       </td>
+      <td align="center" width="250">
+        <a href="https://github.com/itc-s24021/Doraemon">
+          <img src="https://img.shields.io/badge/Doraemon-dda0dd?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Doraemon">
+        </a>
+      </td>
 </tr>
 </table>
 
-<div align="center">
-
-| プロジェクト | 説明 | リンク |
-|------------|------|--------|
-| **自己紹介HTML** | HTMLとCSSで作成した自己紹介サイト | [View →]() |
-| **APIサイト** | ドラえもんAPIを活用したWebアプリケーション | [View →](https://github.com/itc-s24021/Doraemon) |
-
-</div>
 
 ##  保有資格
 <div align="center">
